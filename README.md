@@ -23,9 +23,9 @@
 
 ## 📊 Top Repositories
 
-[![Personal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=dzikrimustaqim&repo=dzikrimustaqim.github.io&show_icons=true&theme=nightowl)](https://github.com/dzikrimustaqim/dzikrimustaqim.github.io)
+[![Personal Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=dzikrimustaqim&repo=dzikrimustaqim.github.io&show_icons=true&theme=ocean_dark)](https://github.com/dzikrimustaqim/dzikrimustaqim.github.io)
 &nbsp;&nbsp;
-[![Organizational Website](https://github-readme-stats.vercel.app/api/pin/?username=dzikrimustaqim&repo=Permikomnas-4&show_icons=true&theme=nightowl)](https://github.com/dzikrimustaqim/Permikomnas-4)
+[![Organizational Website](https://github-readme-stats.vercel.app/api/pin/?username=dzikrimustaqim&repo=Permikomnas-4&show_icons=true&theme=ocean_dark)](https://github.com/dzikrimustaqim/Permikomnas-4)
 
 ---
 
