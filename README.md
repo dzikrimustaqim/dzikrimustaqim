@@ -43,8 +43,11 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dzikrimustaqim@gmail.com)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dzikrimustaqim/)](https://www.linkedin.com/in/dzikrimustaqim/)&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?flat&logo=facebook&logoColor=white)](https://web.facebook.com/dzikri.mustaqim.39)&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?flat&logo=twitter&logoColor=white)](https://twitter.com/dzikrimustaq1m)&nbsp;
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/dzikrimustaqim)&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/749779626141679727)&nbsp;
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20696863/dzikri-mustaqim)
 [![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white)](https://dzikrimustaqim.github.io)
 
 ---
