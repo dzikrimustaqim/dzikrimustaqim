@@ -48,7 +48,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/dzikrimustaqim)&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)](https://discordapp.com/users/749779626141679727)&nbsp;
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20696863/dzikri-mustaqim)
-[![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white)](https://dzikrimustaqim.github.io)
+[![Github Pages](https://img.shields.io/badge/Github%20Pages-121013?style=flat&logo=github&logoColor=white)](https://dzikrimustaqim.github.io)
 
 ---
 
