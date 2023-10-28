@@ -52,4 +52,4 @@
 
 ---
 
-<img align="center" src="https://github.com/dzikrimustaqim/dzikrimustaqim/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
+
